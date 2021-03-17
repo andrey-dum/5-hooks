@@ -5,7 +5,7 @@ function InputExample() {
   const password = useInput('')
 
   return (
-    <div className="app">
+    <div className="input">
       <input
         {...username}
         type="text"
